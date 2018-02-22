@@ -1,0 +1,1 @@
+file = open("/Users/robin/Desktop/Project Euler/Problem_18.txt", "r")
